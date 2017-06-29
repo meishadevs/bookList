@@ -1,0 +1,21 @@
+{
+  "status": 0,
+  "message": "success",
+  "list": [
+    {
+      "bookName": "红楼梦",
+      "bookAuthor": "曹雪芹",
+      "bookPrice": 45
+    },
+    {
+      "bookName": "水浒传",
+      "bookAuthor": "施耐庵",
+      "bookPrice": 34
+    },
+    {
+      "bookName": "西游记",
+      "bookAuthor": "吴承恩",
+      "bookPrice": 36
+    }
+  ]
+}
